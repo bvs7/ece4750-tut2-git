@@ -2,4 +2,8 @@ Apple
 mango
 orange
 banana
+<<<<<<< HEAD
 peach
+=======
+durian
+>>>>>>> 3935d0746b554c3565b2817384ebc8d5f301ee77
